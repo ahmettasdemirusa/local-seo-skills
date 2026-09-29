@@ -1,0 +1,14 @@
+{
+  "name": "local-seo-skills",
+  "version": "1.0.0",
+  "description": "Local SEO skills for AI coding agents: audit a local business website, write valid LocalBusiness schema, optimize a Google Business Profile, earn reviews within Google and FTC rules, build location pages that aren't doorways, and migrate a site without losing rankings. Every rule cites an official Google or FTC source.",
+  "author": {
+    "name": "Ahmet Tasdemir",
+    "url": "https://github.com/ahmettasdemirusa"
+  },
+  "homepage": "https://github.com/ahmettasdemirusa/local-seo-skills",
+  "repository": "https://github.com/ahmettasdemirusa/local-seo-skills",
+  "license": "MIT",
+  "keywords": ["local-seo", "seo", "google-business-profile", "google-maps", "schema-markup", "json-ld", "local-business", "reviews", "location-pages", "site-migration"],
+  "skills": "./skills"
+}

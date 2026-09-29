@@ -1,0 +1,21 @@
+{
+  "name": "local-seo-skills",
+  "owner": {
+    "name": "Ahmet Tasdemir",
+    "url": "https://github.com/ahmettasdemirusa"
+  },
+  "metadata": {
+    "description": "Local SEO skills for AI coding agents, backed by official Google and FTC sources.",
+    "version": "1.0.0",
+    "repository": "https://github.com/ahmettasdemirusa/local-seo-skills"
+  },
+  "plugins": [
+    {
+      "name": "local-seo-skills",
+      "source": "./",
+      "description": "6 local SEO skills: local-seo-audit (with a zero-dependency page checker), local-business-schema, google-business-profile, review-management, location-pages and local-site-migration.",
+      "category": "marketing",
+      "keywords": ["local-seo", "google-business-profile", "schema-markup", "reviews"]
+    }
+  ]
+}
